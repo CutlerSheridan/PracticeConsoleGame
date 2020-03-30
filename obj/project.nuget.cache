@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2wNmatP51WC0IgW/88L0F4ff07XX7JltNL02lQDYf11sAU0mcuJkxudVfGVamNg9u58vzPqT57vu8/TqeHiMCw==",
+  "success": true,
+  "projectFilePath": "/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/ConsoleGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/cutler 1 2/.nuget/packages/microsoft.netcore.app/2.2.0/microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "/Users/cutler 1 2/.nuget/packages/microsoft.netcore.dotnetapphost/2.2.0/microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "/Users/cutler 1 2/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.2.0/microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "/Users/cutler 1 2/.nuget/packages/microsoft.netcore.dotnethostresolver/2.2.0/microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "/Users/cutler 1 2/.nuget/packages/microsoft.netcore.platforms/2.2.0/microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "/Users/cutler 1 2/.nuget/packages/microsoft.netcore.targets/2.0.0/microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "/Users/cutler 1 2/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

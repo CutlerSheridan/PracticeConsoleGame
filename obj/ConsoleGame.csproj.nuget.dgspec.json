@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/ConsoleGame.csproj": {}
+  },
+  "projects": {
+    "/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/ConsoleGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/ConsoleGame.csproj",
+        "projectName": "ConsoleGame",
+        "projectPath": "/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/ConsoleGame.csproj",
+        "packagesPath": "/Users/cutler 1 2/.nuget/packages/",
+        "outputPath": "/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cutler 1 2/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

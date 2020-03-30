@@ -1,0 +1,12 @@
+/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.deps.json
+/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.runtimeconfig.json
+/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.runtimeconfig.dev.json
+/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.dll
+/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.pdb
+/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.csprojAssemblyReference.cache
+/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.AssemblyInfoInputs.cache
+/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.AssemblyInfo.cs
+/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.dll
+/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.pdb
+/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.csproj.CoreCompileInputs.cache
+/Users/cutler 1 2/Documents/Coding/Codecademy/Code from lessons/4. Methods/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.genruntimeconfig.cache
